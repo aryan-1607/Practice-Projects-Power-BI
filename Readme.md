@@ -9,7 +9,7 @@ The dashboard focuses on **clarity, business relevance, and minimal clutter**, a
 
 ## Dashboard Preview
 
-![Amazon Sales Dashboard](assets/dashboard.png)
+![Amazon Sales Dashboard](assets/dashboard.jpg)
 
 ---
 
